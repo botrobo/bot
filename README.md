@@ -1,4 +1,4 @@
-! [Pixabay Cat] (PicsArt_12-15-01.12.25.jpg)
+! [Pixabay Cat](PicsArt_12-15-01.12.25.jpg)
 
 <form name="form2" enctype="multipart/form-data" method="post" action="upload.php" id="form2" />
 <fieldset>
